@@ -18,3 +18,4 @@
 
 ## 3. 내가 만든 웹 폴더
 - 내가 자주 가는 사이트들로 만든 시작 화면 구성
+![image](https://github.com/9unu/html-css-JavaScript/assets/124652096/38147938-688e-459c-a190-b76b7ff97a0f)
